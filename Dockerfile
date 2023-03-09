@@ -1,7 +1,7 @@
-FROM zed-thon/zelzal:alpine
+FROM telegratg/zelzal:alpine
 
 #clonning repo 
-RUN git clone https://github.com/zed-thon/zelzal/tree/master.git /root/zthon
+RUN git clone https://github.com/Telegratg/zelzal/tree/master.git /root/zthon
 #working directory 
 WORKDIR /root/zthon
 
