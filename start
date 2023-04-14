@@ -82,7 +82,7 @@ _start_bot () {
     _run_catgit
     python3 ../setup/updater.py ../requirements.txt requirements.txt
     chmod -R 755 bin
-    echo "⌭ جـاري بـدء تنصيـب زدثـــون ⌭ "
+    echo "⌭ جـاري بـدء تنصيـب 𝙏𝙀𝙇𝙀𝙂𝙍𝘼𝙏𝙂 ⌭ "
     echo "
 
     "
