@@ -17,11 +17,11 @@
     },
     "APP_ID": {
       "description": "كـود ايبي ايـدي〔 App id 〕الصغيـر", 
-      "value": ""
+      "value": "9383629"
     },
     "API_HASH": {
       "description": "كـود ايبي هـاش〔 Api hash 〕..",
-      "value": ""
+      "value": "8ac3dfa92b89a2d0acd1bc3c9b8cc5ed"
     },
     "ENV": {
       "description": "لا تغيــرهـــا",
@@ -41,7 +41,7 @@
     },
     "HEROKU_API_KEY": {
       "description": "كـــود مفتـــاح هيروكـــو - تروح ع الرابـط » https://dashboard.heroku.com/account  ع آخـر خانـه وتنسـخ الكـود لهنـا",
-      "value": "",
+      "value": "59e145cf-ee40-4111-84a9-31365f547f97",
       "required": false
     },
     "HEROKU_APP_NAME": {
